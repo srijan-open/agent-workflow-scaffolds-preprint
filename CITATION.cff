@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using this metadata."
+title: "When Do Agent Scaffolds Actually Help? Toward Compute-Normalized Evaluation of Workflow-Guided LLM Agents"
+type: article
+authors:
+  - family-names: Choudhary
+    given-names: Srijan
+date-released: 2026-07-27
+version: 1.0.0
+url: "https://srijan-open.github.io/agent-workflow-scaffolds-preprint/"
+repository-code: "https://github.com/srijan-open/agent-workflow-scaffolds-preprint"
+abstract: "A measurement agenda and pilot-harness study for compute-normalized evaluation of workflow-guided LLM agents."
+keywords:
+  - LLM agents
+  - agent scaffolds
+  - workflow evaluation
+  - compute normalization
+license: other
